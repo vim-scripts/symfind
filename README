@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4637
+
+Symfind is designed for easy locating files and symbols. It's similar to such tools as ctags/cscope/global/vim+fuzzyfind, but optimized for large-scale project. 
+
+Key features of Symfind:
+- natural search pattern, like in google
+- small repository
+- simple, stable and reliable
+- value search for macro or variable
+- vim integration
+
+The project is host on google:  https://code.google.com/p/symfind/
+Please read __README__.txt in the release package for detail.
+
